@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+}
+
+.AddProduct {
+}
+
+input {
+  width: 49.7%;
+  padding: 20px;
+  border-radius: 8px;
+  border: 1px solid rgba(139, 137, 249, 0.2);
+}
+
+.category-input {
+  width: 100%;
+  padding: 20px;
+  border-radius: 8px;
+  border: 1px solid rgba(139, 137, 249, 0.2);
+}
+
+form {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 10px;
+  margin-bottom: 24px;
+}
+
+.Form-btn {
+  width: 512px;
+  padding: 20px;
+  background-color: #8b89f9;
+  border: 1px solid #8b89f9;
+  border-radius: 10px;
+  color: white;
+}
+
+.add_category {
+  display: flex;
+}
+
+.add_category {
+  display: block;
+  margin: 24px 0px;
+}
+
+.add_brand {
+  display: block;
+  margin: 24px 0px;
+}
+
+h1 {
+  color: #555454;
+}
+

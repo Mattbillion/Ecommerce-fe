@@ -1,0 +1,7 @@
+.Category_Container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 24px;
+  gap: 10px;
+}
